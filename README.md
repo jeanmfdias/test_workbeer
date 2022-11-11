@@ -1,5 +1,5 @@
 Mini Banco
 
-- [ ] Criar conta
-- [ ] Saque
-- [ ] Deposito 
+- [x] Criar uma conta
+- [x] Saque
+- [x] Deposito 
